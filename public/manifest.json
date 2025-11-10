@@ -1,0 +1,30 @@
+{
+    "name": "Kliensoldali Rendszerek Chat App",
+    "short_name": "Chat",
+    "start_url": "./?mode=pwa",
+    "id": "/?mode=pwa",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "logo192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "screenshot_wide.png",
+            "sizes": "1919x1031",
+            "type": "image/png",
+            "form_factor": "wide",
+            "label": "Chat App Login Screen"
+        },
+        {
+            "src": "screenshot_mobile.png",
+            "sizes": "551x892",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "Chat App Login Screen"
+        }
+    ]
+}
